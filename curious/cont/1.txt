@@ -1,0 +1,41 @@
+largest equals max first two element array used finding largest  element array
+largest equals max first two element array used finding biggest element array
+largest equals max first two element array used finding maximum element array
+largest equals zero integer variable used finding largest element array
+largest equals zero integer variable 
+largest equals zero  used finding largest element array integer variable
+second_largest equals min first two element array used finding second largest element array
+second_largest equals min first two element array used finding second largest element array
+second_largest equals min first two element array used finding second biggest element array
+second_largest equals min first two element array used finding second maximum element array
+second_largest  equals zero  integer variable used finding largest element array
+second_largest  equals zero  integer variable 
+second_largest  equals zero  integer variable 
+second_largest  equals zero  integer variable 
+second_largest  equals zero  integer variable 
+second_largest  equals zero  integer variable 
+second_largest  equals zero  used finding largest element array integer variable
+second_largest  equals zero  integer variable used finding largest element array
+second_largest  equals zero  used finding largest element array integer variable
+second_largest  equals zero  integer variable used finding largest element array
+second_largest  equals zero  used finding largest element array integer variable
+largest_pair_sum equals zero used finding largest sum pair array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

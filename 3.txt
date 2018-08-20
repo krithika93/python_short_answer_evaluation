@@ -1,0 +1,21 @@
+
+if  current element greater largest variable,second_largest variable equals largest variable, largest variable equals current element. 
+
+
+second_largest variable equals largest variable, largest_variable equals current element,if current element greater largest variable. 
+
+
+if current element greater  largest variable, second_largest variable equals largest_variable ,largest variable equals current element.
+
+
+ if current element greater  largest variable , second_largest variable equals largest variable. 
+ 
+ 
+ if current element greater largest variable ,second_largest equals largest variable , largest variable  equals current variable. 
+ 
+ 
+ if current element  greater  largest variable, second_largest equals largest variable , largest variable  equals current variable.
+ 
+ if current element is greater than the largest variable, second_largest equals largest variable , largest variable equals  current variable .
+ 
+ if current element is greater than the max variable, second_largest equals largest variable , largest_variable  equals largest variable.

@@ -1,0 +1,12 @@
+ 
+ 
+ else if  current element greater second_largest variable, but not larger than the largest variable, then second_largest variable equals current element. 
+ 
+ else if current element greater second_largest variable, then second_largest element equals current element.
+
+ else if current element greater second_largest variable, second_largest element equals current element.
+ 
+ 
+ else if current element greater second_largest variable, but not larger than the largest element, second_largest element equals current element.
+ 
+ 

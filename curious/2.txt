@@ -1,0 +1,11 @@
+in for loop, then starting from  third element till end of array ,update  largest variable   second_largest variable
+in for loop, iterate from  third element till  end of  array,update largest variable second_largest variable
+in for loop,iterate from third element till end of array
+update change largest variable second_largest variable
+in  for loop , loop from third element till end  of array, update  largest variable  second_largest variable if possible  
+for loop, from third element end of array, update  largest  second_largest variable if possible
+for loop, from third element end of  array, update  largest  second_largest variable if possible
+for from  third element end of  array, update  largest  second_largest variable if possible
+then starting from  third element till  end of  array , update  elements in for loop
+
+

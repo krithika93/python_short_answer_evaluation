@@ -1,0 +1,20 @@
+
+initialize both  largest variable  and second_largest variable element.
+
+largest equals max first two elements array.  used for finding the largest element of first two element of array . 
+
+
+
+second_largest equals min first two elements array .used for finding the second largest element of the array.
+
+
+
+
+find the second_largest variable and largest variable of the first two elements of the array. 
+
+
+
+the minimum and maximum of the first two elements of the array must be found. 
+
+
+store these as largest variable and second_largest variable.

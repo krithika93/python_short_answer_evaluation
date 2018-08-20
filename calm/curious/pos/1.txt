@@ -1,0 +1,23 @@
+largest equals max first two element of array used for finding  largest biggest maximum element array. 
+second_largest equals min first two element of array used for finding  second largest  element array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

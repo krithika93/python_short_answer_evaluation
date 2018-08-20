@@ -1,0 +1,56 @@
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if  current element greater than second_largest variable  but not larger than  largest variable  then second_largest variable equals current element 
+else if current element greater than second_largest variable
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals current element
+second_largest variable equals current element
+second_largest variable equals current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals  current element
+second_largest variable equals current element
+second_largest variable equals  current element
+second_largest variable equals  current element
+second_largest variable equals  current element
+second_largest variable equals  current element
+update second_largest variable to current element
+store current element in second_largest variable
+update second_largest variable to current element
+update second_largest variable to current element
+store current element in second_largest variable
+else if current element greater than second_largest variable  second_largest variable equals current element
+else if current element greater than second_largest variable  but not larger than  largest element  second_largest variable equals current element
+
+ 
+ 

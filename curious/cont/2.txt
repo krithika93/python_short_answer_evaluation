@@ -1,0 +1,26 @@
+in for loop  then starting from  third element till end of array  update  largest variable second_largest variable
+iterate from  third element till  end of  array in for loop  update largest second_largest variable
+in for loop  iterate from  third element till  end of  array update largest second_largest variable
+in for loop   loop from third element till end  of array  update  largest variable second_largest variable if possible 
+in for loop   from third element till end  of array
+from third element till end  of array in for loop 
+update  largest variable  second_largest variable if possible
+update  largest variable  second_largest variable if possible
+update  largest variable  second_largest variable if possible
+update  largest variable  second_largest variable 
+update  largest  second_largest variable if possible  from  third element end of  array in for loop
+for loop from  third element end of  array  update  largest  second_largest variable if possible
+in for loop  from third element end of array  update  largest  second_largest variable
+in for loop  from third element end of  array  update  largest  second_largest variable 
+in for loop  from  third element end of  array  update  largest  second_largest variable 
+from  third element end of  array in for loop  update  largest  second_largest variable 
+then starting from  third element till  end of  array   update largest second_largest variable in for loop
+update  elements in for loop  starting from third element till end of array
+update  largest second_largest elements in for loop  starting from third element till end of array
+in  for loop then starting from  third element till end of  array   update  largest variable  second_largest variables
+then starting from  third element till  end of  array   in for loop find initialized  variables
+in for loop find initialized  variables  starting from  third element till  end of  array 
+find initialized variables in for loop  starting from  third element till  end of  array 
+in  for loop   update  largest variable   second_largest variable starting from  third element till end of array 
+in for loop  from  third element end of  array  find  largest  second_largest variable if possible
+from  third element end of  array in for loop  find  largest  second_largest variable if possible

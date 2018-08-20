@@ -1,0 +1,18 @@
+ARRAY LARGEST PAIR SUM (ALPR)
+
+initialize both  largest and second largest  element in the array.find the second minimum and maximum of the first two elements of the array. the minimum and maximum of the first two elements of the array must be found. 
+store these as min and max variables.
+
+in a for loop, then starting from the third element till end of the array we need to update the min and max variables.
+if an element is greater than the max  variable,update the min variable to the max , and store the current element to the max variable. else if the current element is greater than
+the second largest element, but not larger than the largest element, then update the second largest element to the  current element. 
+
+
+After the end of one traversal end of the for loop , we will get the maximum and second maximum elements of the array in the max and min elements.
+the sum of both will give the largest pair sum .
+ 
+ 
+
+
+
+
